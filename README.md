@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bibishan-pandey/bibishan-pandey/blob/master/devcard.svg" width="400" alt="Bibishan Pandey's Dev Card"/></a>
+
 - TODO
 - 👋 Hi, I’m @bibishan-pandey
 - 👀 I’m interested in ...
