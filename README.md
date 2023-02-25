@@ -1,4 +1,4 @@
-[![Bibishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibishan-pandey)](https://github.com/anuraghazra/github-readme-stats)
+[![Bibishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibishan-pandey&count_private=true&show_icons=true&theme=swift#gh-light-mode-only&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bibishan-pandey/bibishan-pandey/blob/master/devcard.svg" width="400" alt="Bibishan Pandey's Dev Card"/></a>
 
