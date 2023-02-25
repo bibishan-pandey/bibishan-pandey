@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: bibishan-pandey/github-activity-readme@master
+      - uses: bibishan-pandey/bibishan-pandey@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
