@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibishan</h1>
-<h3 align="center">A passionate react developer</h3>
+<h3 align="center">A passionate React.js/Next.js/JavaScript developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibishan-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="bibishan-pandey" /> </p>
 
