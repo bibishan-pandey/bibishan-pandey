@@ -1,9 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&section=header&text=Hey,%20I'm%20Bibishan!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?height=200&type=venom&color=00FF00&section=header&reversal=false&text=Hey,%20I'm%20Bibishan!&fontSize=60&fontColor=000000&stroke=00FF00&animation=fadeIn" />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9FADF3&center=true&vCenter=true&width=600&lines=(Frontend+Focused)+Full+Stack+Developer+%F0%9F%9A%80;Builder+of+Things+That+Actually+Work%E2%84%A2;Toronto-based+%7C+Coffee-fuelled+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?weight=900&duration=1500&pause=500&multiline=true&size=20&color=21883D&center=true&vCenter=false&height=120&width=720&lines=(Frontend-Focused)+Full+Stack+Software+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6;+Drinking+Coffee+%E2%98%95%EF%B8%8F+In+Toronto+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
   </a>
 </p>
+
+***
 
 <p align="center">
   Welcome to my corner of the internet, where the code is clean, the commits are meaningful,
@@ -18,8 +21,6 @@
 
 ### 🚀 What I'm Up To
 
-<!-- <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
-
 - 🔨 Heads down building **awesome things** — the kind that make you go *"wait, how?"* 👀
 - 📚 Constantly levelling up, because there's always a new framework dropping every 15 minutes *(looking at you, JS ecosystem 😅)*
 - 🚫 **Not** looking to be someone's *"interview guy"* — yes, this has happened more than once. No, I will not ace your technical round while you sit back, collect the offer, and *graciously* split the salary with me. Truly a tempting business model, but I'm good, thanks! 🙃
@@ -30,9 +31,7 @@
 
 I love meeting fellow developers, designers, and curious humans. Don't be a stranger!
 
-<p align="left">
 <a href="https://linkedin.com/in/bibishanpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibishanpandey" height="30" width="40" /></a>
-</p>
 
 ***
 
@@ -69,6 +68,7 @@ I love meeting fellow developers, designers, and curious humans. Don't be a stra
 
 | [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40">](https://flutter.dev) | [<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40">](https://dart.dev) | [<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40">](https://reactnative.dev/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">](https://developer.android.com) |
 |---|---|---|---|
+
 ***
 
 ### 📈 GitHub Streak
@@ -77,9 +77,9 @@ I love meeting fellow developers, designers, and curious humans. Don't be a stra
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibishan-pandey&" alt="bibishan-pandey" />
 </div>
 
-<div>  
+<!-- <div>  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibishan-pandey&theme=github-light&hide_border=true&radius=4" alt="bibishan-pandey activity graph" />
-</div>
+</div> -->
 
 <!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bibishan-pandey/bibishan-pandey/blob/master/devcard.svg" width="200" alt="Bibishan Pandey's Dev Card"/></a> -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DBFBE1&height=120&section=footer" /> -->
